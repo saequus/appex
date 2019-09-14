@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0851ead1-b2ed-4e35-817c-9de299d5e6b4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../appex/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../appex/htmlfront/postcss.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../appex/htmlfront/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../appex/htmlfront/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../appex/htmlfront/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../appex/htmlfront/yarn.lock" afterDir="false" />
-    </list>
+    <list default="true" id="0851ead1-b2ed-4e35-817c-9de299d5e6b4" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,8 +67,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../appex/htmlfront/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+            <state relative-caret-position="424">
+              <caret line="30" column="18" lean-forward="true" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -133,7 +128,13 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../appex/htmlfront" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../appex" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -188,11 +189,6 @@
               <item name="vuetify-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="appex" type="462c0819:PsiDirectoryNode" />
               <item name="m" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vuetify-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="appex" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="vuetify-test" type="b2602c69:ProjectViewProjectNode" />
@@ -424,7 +420,7 @@
       <updated>1567434516058</updated>
       <workItem from="1567434520416" duration="535000" />
       <workItem from="1567435070682" duration="2135000" />
-      <workItem from="1568451689378" duration="7215000" />
+      <workItem from="1568451689378" duration="7511000" />
     </task>
     <task id="LOCAL-00001" summary="Initial structure.">
       <created>1568468107248</created>
@@ -433,11 +429,32 @@
       <option name="project" value="LOCAL" />
       <updated>1568468107248</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial structure.">
+      <created>1568468316067</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568468316067</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial structure settings in project folder.">
+      <created>1568468422792</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1568468422792</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Updates.">
+      <created>1568468466648</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1568468466648</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9885000" />
+    <option name="totallyTimeSpent" value="10181000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -453,10 +470,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.3296837" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3296837" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3296837" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3296837" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3296837" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -524,7 +541,9 @@
       <path value="$PROJECT_DIR$/htmlfront" />
     </ignored-roots>
     <MESSAGE value="Initial structure." />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial structure." />
+    <MESSAGE value="Initial structure settings in project folder." />
+    <MESSAGE value="Updates." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updates." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../appex/htmlfront/src/assets/logo.png">
@@ -705,8 +724,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../appex/htmlfront/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        <state relative-caret-position="424">
+          <caret line="30" column="18" lean-forward="true" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
         </state>
       </provider>
     </entry>
